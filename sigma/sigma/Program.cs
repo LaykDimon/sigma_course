@@ -8,6 +8,9 @@ namespace sigma
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("bye");
+
+            int b = 5;
+            Console.WriteLine(b + 10);
         }
     }
 }
