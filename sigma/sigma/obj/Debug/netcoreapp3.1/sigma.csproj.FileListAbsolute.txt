@@ -1,0 +1,13 @@
+H:\College Dima\github\sigma_course\sigma\sigma\bin\Debug\netcoreapp3.1\sigma.exe
+H:\College Dima\github\sigma_course\sigma\sigma\bin\Debug\netcoreapp3.1\sigma.deps.json
+H:\College Dima\github\sigma_course\sigma\sigma\bin\Debug\netcoreapp3.1\sigma.runtimeconfig.json
+H:\College Dima\github\sigma_course\sigma\sigma\bin\Debug\netcoreapp3.1\sigma.runtimeconfig.dev.json
+H:\College Dima\github\sigma_course\sigma\sigma\bin\Debug\netcoreapp3.1\sigma.dll
+H:\College Dima\github\sigma_course\sigma\sigma\bin\Debug\netcoreapp3.1\sigma.pdb
+H:\College Dima\github\sigma_course\sigma\sigma\obj\Debug\netcoreapp3.1\sigma.csprojAssemblyReference.cache
+H:\College Dima\github\sigma_course\sigma\sigma\obj\Debug\netcoreapp3.1\sigma.AssemblyInfoInputs.cache
+H:\College Dima\github\sigma_course\sigma\sigma\obj\Debug\netcoreapp3.1\sigma.AssemblyInfo.cs
+H:\College Dima\github\sigma_course\sigma\sigma\obj\Debug\netcoreapp3.1\sigma.csproj.CoreCompileInputs.cache
+H:\College Dima\github\sigma_course\sigma\sigma\obj\Debug\netcoreapp3.1\sigma.dll
+H:\College Dima\github\sigma_course\sigma\sigma\obj\Debug\netcoreapp3.1\sigma.pdb
+H:\College Dima\github\sigma_course\sigma\sigma\obj\Debug\netcoreapp3.1\sigma.genruntimeconfig.cache
